@@ -17,6 +17,7 @@ DB_PASSWORD
 DB_HOST
 DB_NAME
 
+
 ```
 
 How to start the java-dropwizard-swagger-jdbc application
